@@ -7,4 +7,4 @@
 - ✂ My hobby is making tiny shoes. I write about this on my Instagram: [instagram.com/stripedbox](instagram.com/stripedbox).
 - ✉ You can contact me at tatianabugai@icloud.com, at [t.me/tatianabugai](http://t.me/tatianabugai), or at [LinkedIn](https://www.linkedin.com/in/tatiana-bugai/).
 
-**My CV: [Tatiana Bugai.pdf](https://drive.google.com/file/d/1KGy24WLjnCvENgF8vBmDaqQ-h6A6O3-k/view?usp=sharing) | [Татьяна Бугай.pdf](https://drive.google.com/file/d/1kMhkFYwwj0oaK2sqzjWbwUW2-TGOLQ-P/view?usp=sharing)**
+**My CV: [Tatiana Bugai.pdf](https://www.notion.so/CV-Tatiana-Bugai-iOS-Developer-9278ef35980e4811b79152653610d0e4) | [Татьяна Бугай.pdf](https://www.notion.so/iOS-Developer-303751251b894afaa2f7910443759793)**
