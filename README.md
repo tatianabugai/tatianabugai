@@ -2,7 +2,7 @@
 
 - 🇷🇺 I live in Krasnoyarsk, Russia. 
 - 👩‍🎓 I completed a Bachelor's degree in Information Technology. 
-- 📱 Have been coding in Swift for 1+ year. 
+- 📱 Have been coding in Swift since 2020.
 - ✨ I have a pet-project 🛒 **[Listish](https://github.com/tatianabugai/Listish)**, an app that helps to organize shopping lists.
 - ✂ My hobby is making tiny shoes. I write about this on my Instagram: [instagram.com/stripedbox](instagram.com/stripedbox).
 - ✉ You can contact me at tatianabugai@icloud.com, at [t.me/tatianabugai](http://t.me/tatianabugai), or at [LinkedIn](https://www.linkedin.com/in/tatiana-bugai/).
